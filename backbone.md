@@ -1,6 +1,5 @@
-# Coffeescript
+# Backbone.js
 
 ## Style
 
 ## Resources
-
